@@ -1,0 +1,94 @@
+body {
+
+  padding-top: 2px;
+
+}
+@media (min-width: 768px) {
+
+  .container {
+
+    width: 750px;
+
+  }
+
+}
+
+@media (min-width: 992px) {
+
+  .container {
+
+    width: 970px;
+
+  }
+
+}
+
+@media (min-width: 1200px) {
+
+  .container {
+
+    width: 1170px;
+
+  }
+
+}
+
+[class*="col-"], footer {
+
+  background-color: lightgreen;
+
+  border: 2px solid black;
+
+  border-radius: 2px;
+
+  line-height: 40px;
+
+  text-align: center;
+  font-size:9px;
+  height: 80px;
+}
+.legend{
+	height: 60px;
+	margin: 4px;
+	border: none;
+
+}
+p.spacer{
+  line-height: 2em;
+}
+.red {
+
+background-color: red;
+}
+.bleuciel{
+
+background-color: lightblue;
+}
+.jaune{
+
+background-color: yellow;
+}
+.gris{
+
+background-color: grey;
+}
+.grisc{
+
+background-color: lightgrey;
+}
+.roseclair{
+
+background-color: lightpink;
+}
+.orangeclair{
+
+background-color: #FEEEC8;
+}
+.saumon{
+
+background-color: #FE6B6B;
+}
+.violet{
+
+background-color: #D066DC;
+}

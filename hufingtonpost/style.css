@@ -1,0 +1,85 @@
+body{
+	background-color: blue;
+}
+
+#header{
+	text-align: center;
+	background-color: white;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%;
+	border-top:2px solid white;
+}
+#body{
+	text-align: center;
+	background-color: white;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%;
+	border-top:2px solid lightgray;
+}
+#footer{
+	text-align: center;
+	background-color: white;
+	width: 80%;
+	margin-left:10%;
+	margin-right: 10%;
+	border-top:1px solid lightgray;
+}
+ .blogtop {
+margin-top: 50px;
+border-top: 2px solid black;
+border-bottom: 1px solid lightgrey;
+border-right: 1px solid lightgrey;
+}
+ .art1 {
+margin-top: 50px;
+border-bottom: 1px solid lightgrey;
+padding-bottom: 10px;
+border-left: 1px lightgrey;
+border-right: 1px solid lightgrey;
+}
+.news{
+     border-top: 1px solid lightgrey;
+
+}
+
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 10px; 
+  background-color: #007562;
+  font-size: 12px;
+}
+.nav{
+	padding-left: 40px;
+}
+.clavie {
+ background-color: #00D0F2;
+}
+
+.container{
+	width:100%;
+}
+nav a{
+	color: white;
+}
+nav a:hover{
+	color: black;
+	background-color: white;
+	text-decoration:none;
+}
+.bleuciel{
+	background-color: lightblue;
+}
+a{
+	color: black;
+}
+a:hover{
+	color: black;
+}
+.noir{
+	background-color: black;
+}
+
